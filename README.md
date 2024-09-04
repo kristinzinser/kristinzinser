@@ -1,6 +1,6 @@
 ## Hellody! 👋🤠
 
-- 📫 How to reach me: send me a message on [LinkedIn](https://www.linkedin.com/in/kristinzinser/)
+- 📫 How to reach me: send me a message on [LinkedIn](https://www.linkedin.com/in/kristinzinser/) or via [my portfolio](https://kristinzinser.com/)
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I started my career as a designer and moved into frontend development and I've been in love ever since. I have been writing code for a _very_ long time, starting all the way back in the MySpace & LiveJournal theming days!
 - 🫀 Things I love: cats, sparkling water, dad jokes, and funny GIFs...
